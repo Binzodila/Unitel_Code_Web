@@ -10,7 +10,7 @@
   font-size: 20px;
   color: orange;
 }
-
+  /* ============================================================================== */
 .topnav {
     background-color: rgb(32, 32, 32);
     overflow: hidden;
@@ -23,6 +23,7 @@
     text-transform: uppercase;
     transition: all 0.5s;
 }
+  /* ============================================================================== */
   
 #cabecalho{
   background-color: black;
@@ -36,6 +37,7 @@
   height: 34px;
 
 }
+  /* ============================================================================== */
 
 #menu-cima #area-contato{
   width: 80%;
@@ -43,6 +45,7 @@
   margin-left: 130px;
 
 }
+  /* ============================================================================== */
 
 #area-contato div{
   display: flex;
@@ -55,6 +58,7 @@
   width: 15px;
   height: 15px;
 }
+  /* ============================================================================== */
 
 #area-contato div p{
   color: #fff;
@@ -68,6 +72,7 @@
   display: flex;
   align-items: center;
 }
+  /* ============================================================================== */
 
 #menu-cima #area-midias a{
   margin-left: 10px;
@@ -79,6 +84,7 @@
   height: 16px;
   
 }
+  /* ============================================================================== */
 
 .tam_icone{
   width: 18px;
@@ -96,6 +102,7 @@
     height: 492px;
         width: 100%;
   }
+    /* ============================================================================== */
   .img-quatro{
     height: 300px;
         width: 100%;
@@ -109,4 +116,8 @@
     padding: 20px;
     background-color:rgba(63, 63, 63, 0.658);
     color: #fff;
+  }
+  .cor_fonter1{
+    padding-top: 15px;
+    border-top: solid 2px rgb(71, 42, 19);
   }
