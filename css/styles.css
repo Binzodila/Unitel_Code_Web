@@ -1,0 +1,112 @@
+
+.logo{
+    width: 60px;
+    margin:5px;
+  }
+
+/* Add a black background color to the top navigation */
+
+.nav-item .nav-link :hover{
+  font-size: 20px;
+  color: orange;
+}
+
+.topnav {
+    background-color: rgb(32, 32, 32);
+    overflow: hidden;
+  }
+  .item-nav{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+  
+#cabecalho{
+  background-color: black;
+  width: 100%;
+}
+
+#menu-cima{
+  background-color: #282828;
+  display: flex;
+  width: 100%;
+  height: 34px;
+
+}
+
+#menu-cima #area-contato{
+  width: 80%;
+  display: flex;
+  margin-left: 130px;
+
+}
+
+#area-contato div{
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+
+}
+
+#area-contato div img{
+  width: 15px;
+  height: 15px;
+}
+
+#area-contato div p{
+  color: #fff;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+#menu-cima #area-midias{
+  width: 20%;
+  text-align: right;
+  display: flex;
+  align-items: center;
+}
+
+#menu-cima #area-midias a{
+  margin-left: 10px;
+
+}
+
+#menu-cima #area-midias img{
+  width: 16px;
+  height: 16px;
+  
+}
+
+.tam_icone{
+  width: 18px;
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+/* espaçamento do hender */
+.espacamento{
+  padding-top: 15px;
+}
+
+  /* ============================================================================== */
+  .img-with{
+    height: 492px;
+        width: 100%;
+  }
+  .img-quatro{
+    height: 300px;
+        width: 100%;
+  }
+  .cor_font{
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  }
+  .cor_footer{
+    margin-right: 50px;
+    padding: 20px;
+    background-color:rgba(63, 63, 63, 0.658);
+    color: #fff;
+  }
